@@ -15,6 +15,6 @@ USBThief、移动磁盘数据盗取
   5. FUT2.0支持多个设备同时盗取。
   
 
-![FUT2.0](https://raw.githubusercontent.com/FlyfishSec/USBThief/master/FUT2.0.png "U disk thief")
+![FUT2.0](https://raw.githubusercontent.com/FlyfishSec/USBThief/master/FUT2_Setup.png "U disk thief")
 
 
